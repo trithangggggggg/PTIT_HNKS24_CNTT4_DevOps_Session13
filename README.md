@@ -11,7 +11,7 @@
 - **Mã sinh viên:** B24DTCN450
 - **Lớp:** CNTT4
 - **Dự án sử dụng:** Campus Hub Base
-- **Repository nộp bài:** https://github.com/trithangggggggg/PTIT_HNKS24_CNTT4_DevOps_Session13_BaiKiemTra
+- **Repository nộp bài:** https://github.com/trithangggggggg/PTIT_HNKS24_CNTT4_DevOps_Session13
 
 ---
 
